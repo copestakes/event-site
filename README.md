@@ -1,2 +1,3 @@
 # event-site
-This is a demo for Web Design IV
+This is a demo for Web Design
+Hello World
